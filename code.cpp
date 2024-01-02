@@ -133,9 +133,7 @@ public:
 		cout << "\n\n\n\tBILLING SYSTEM"<<endl;
 		cout << "\n\t================================================================\n";
 		cout << "\n\n\tMADE BY:";
-		cout << "\n\n\tRishabh Kumar Varshney";
-		cout << "\n\n\tRajnish Jha";
-		cout << "\n\n\tNazar Kamal";
+		cout << "\n\n\tAman Verma";
 	}
 	static void user()
 	{
@@ -340,7 +338,7 @@ public:
 	}
 };
 
-void main()
+int main()
 {
 	NavPages::intro();
 	getch();
